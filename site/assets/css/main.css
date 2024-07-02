@@ -1399,7 +1399,7 @@ body {
 
 	#banner {
 		text-align: center;
-		padding: 4.5em 0 4.5em 0;
+		padding: 4.5em 2em 4.5em 2em;
 		margin-bottom: 0;
 		background: rgba(192, 192, 192, 0.35);
 	}
@@ -1500,13 +1500,6 @@ body {
 					padding-left: 2em;
 					padding-right: 2em;
 				}
-
-		/* Banner */
-
-			#banner {
-				padding-left: 2em;
-				padding-right: 2em;
-			}
 
 		/* Footer */
 
